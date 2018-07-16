@@ -5,7 +5,7 @@
 --------------- for the game Connect 4 ---------------- 
 
 
- ** To launch the game : **
+ To launch the game :
  
 - Get OCaml (using OPAM the easiest way)
 
@@ -13,5 +13,5 @@
 
 - Follow the instruction of Functory installation
 
-- ''ocamlbuild -use-ocamlfind gameplay.native
-./gameplay.native  ''
+- ocamlbuild -use-ocamlfind gameplay.native
+  ./gameplay.nativ
